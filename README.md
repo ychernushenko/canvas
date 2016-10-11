@@ -1,5 +1,7 @@
 # canvas
 
-http://www.trueai.io/
-http://talkiq.com/
-http://www.intranetum.net/
+http://www.trueai.io/  
+http://talkiq.com/  
+http://www.intranetum.net/  
+http://dittolabs.io/  
+
